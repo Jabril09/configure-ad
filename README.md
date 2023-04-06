@@ -91,10 +91,10 @@ After clicking the dynamic host the botton this screen will appear and the click
 <br />
 <p>
 
-<img src="https://i.imgur.com/sf8Qjct.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3cJ9Iuo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Make sure client-1 is set to windows 10 and the same region as AD-Lab US west 3. Click review and create
+To ensure connectivity between DC-1 and Client-1 get DC-1's private ip address. In azure go to DC-1 and the private ip address should be there on the right side almost at the middle of the page. Copy that address.
 </p>
 <br />
 <p>
