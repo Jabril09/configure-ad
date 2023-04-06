@@ -72,7 +72,7 @@ Create the other virtual machine (VM) as Client-1. Select windows 10 and US regi
 <img src="https://i.imgur.com/Y8rdbTC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go back to DC-1 and click on networking on the left side. Then click on the newtwork interface (NIC). 
+Go back to DC-1 and click on networking on the left side. Then click on the newtwork interface (NIC). To Change network interface (NIC).
 </p>
 <br />
 <p>
