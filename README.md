@@ -77,10 +77,10 @@ Then on the left side click ip configurations.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/taPszWO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum do.
+After clicking the dynamic host the botton this screen will appear and the click static and save to set (NIC) of the domain controller. 
 </p>
 <br />
 <p>
