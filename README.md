@@ -119,10 +119,10 @@ Sign into DC-1 the same as you would like Client -1. Get DC-1 public ip address 
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/0ueQok4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Click on protocol at the top of the list and look for ICMPv4 core networking. Expand the page to have a better view. Once you have found core networking expand it and enable core networking dianostics echo request. After open Client-1 back up and notice the difference. 
 </p>
 <br />
 <p>
