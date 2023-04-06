@@ -143,7 +143,7 @@ Now time to install Active Dicrectory on DC-1. Log into DC-1 and in service mana
 <img src="https://i.imgur.com/dOyrDt4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After that click the yellow triangle in the upper right hand corner. Then click "promote the server as domain controller.
 </p>
 <br />
 <p>
