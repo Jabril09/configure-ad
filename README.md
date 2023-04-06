@@ -91,7 +91,7 @@ After clicking the dynamic host the botton this screen will appear and the click
 <br />
 <p>
 
-<img src="https://i.imgur.com/3cJ9Iuo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hMBpKqO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 To ensure connectivity between DC-1 and Client-1 get DC-1's private ip address. In azure go to DC-1 and the private ip address should be there on the right side almost at the middle of the page. Copy that address.
@@ -101,7 +101,7 @@ To ensure connectivity between DC-1 and Client-1 get DC-1's private ip address. 
 <img src="https://i.imgur.com/3cJ9Iuo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-To ensure connectivity between DC-1 and Client-1 get DC-1's private ip address. In azure go to DC-1 and the private ip address should be there on the right side almost at the middle of the page. Copy that address..
+Open up command prompt in the start menu. After that ping 10.0.0.4 ( DC-1 private ip address ) and notice has the ping timed out. It timed out because DC-1 firewall is up 
 </p>
 <br />
 <p>
