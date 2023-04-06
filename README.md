@@ -98,10 +98,10 @@ To ensure connectivity between DC-1 and Client-1 get DC-1's private ip address. 
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/3cJ9Iuo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FuB2OYY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open up command prompt in the start menu. After that ping 10.0.0.4 ( DC-1 private ip address ) and notice has the ping timed out. It timed out because DC-1 firewall is up 
+Open up Remote start in the start menu. After that put Client-1 public ip address in and sign into Client-1 via virtual machine you created. For the username type in labuser and the password you created.
 </p>
 <br />
 <p>
