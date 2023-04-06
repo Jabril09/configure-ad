@@ -66,7 +66,7 @@ Create the virtual machine (VM) DC-1. Select Windows servers 2022.
 <img src="https://i.imgur.com/sf8Qjct.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ips
+Make sure client-1 is set to windows 10 and the same region as AD-Lab
 </p>
 <br />
 <p>
