@@ -70,10 +70,10 @@ Go back to DC-1 and click on networking on the left side. Then click on the newt
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/sf8Qjct.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fUPnSQ4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Make sure client-1 is set to windows 10 and the same region as AD-Lab US west 3
+Then on the left side click ip configurations.
 </p>
 <br />
 <p>
