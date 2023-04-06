@@ -59,7 +59,7 @@ Make sure the resource group is in the same region as the (VMs)
 <img src="https://i.imgur.com/v1Qu4jX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create the virtual machine (VM) DC-1. Select Windows servers 2022. Region US west 3
+Create the virtual machine (VM) DC-1. Select Windows servers 2022. Region US west 3. Click review and create 
 </p>
 <br />
 <p>
@@ -94,7 +94,7 @@ Lorem ipsum dolor sit.
 <img src="https://i.imgur.com/sf8Qjct.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Make sure client-1 is set to windows 10 and the same region as AD-Lab US west 3
+Make sure client-1 is set to windows 10 and the same region as AD-Lab US west 3. Click review and create
 </p>
 <br />
 <p>
