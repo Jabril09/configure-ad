@@ -143,7 +143,7 @@ Now time to install Active Dicrectory on DC-1. Log into DC-1 and in service mana
 <img src="https://i.imgur.com/dOyrDt4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After that click the yellow triangle in the upper right hand corner. Then click "promote the server as domain controller. Then add new forest name mydomain.com. Click next and make up a password that you will not forget. click next next 
+After that click the yellow triangle in the upper right hand corner. Then click "promote the server as domain controller. Then add new forest name mydomain.com. Click next and make up a password that you will not forget. click next, next, next and compuer will restart (DC-1 will restart).
 </p>
 <br />
 <p>
