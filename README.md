@@ -63,17 +63,17 @@ Create the virtual machine (VM) DC-1. Select Windows servers 2022. Region US wes
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/sf8Qjct.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Y8rdbTC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Make sure client-1 is set to windows 10 and the same region as AD-Lab US west 3
+Go back to DC-1 and click on networking on the left side. Then click on the newtwork interface (NIC). Then click on ip configurations at the very bottom
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/sf8Qjct.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum.Make sure client-1 is set to windows 10 and the same region as AD-Lab US west 3
+Make sure client-1 is set to windows 10 and the same region as AD-Lab US west 3
 </p>
 <br />
 <p>
