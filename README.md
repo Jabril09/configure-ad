@@ -153,10 +153,10 @@ After that click the yellow triangle in the upper right hand corner. Then click 
 Now time to create organizational units and admin users. Once DC-1 restarts go back to azure and restart DC-1 because the ip address may have changed. Copy the ip address and sign in through remote desktop. In service manager go to tools at the top right hand of the corner and click active directory and computers. 
 </p>
 <br />
-<img src="https://i.imgur.com/uvaI9Bs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gVMigFy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Right click mydomain.com.
+Right click mydomain.com. Select new and then organization then unit. 
 </p>
 <br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
