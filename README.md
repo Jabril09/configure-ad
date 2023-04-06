@@ -25,7 +25,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 2 - Create a virtual machine (VM) and name it DC-1 for domain controller. Set the Network interface (NIC) private IP address to static of the domain controller. 
 - Step 3 - Create another virtual machine (VM) for client 1 under the same resource group AD-LAB and same region. 
 - Step 4 - Ensure connectivity between DC-1 and client-1 with ping. Log into client-1 and ping DC-1. 
-- Step 5
+- Step 5 - Install active dictory domain services on DC-1
 - Step 6
 - Step 7
 - Step 8 
