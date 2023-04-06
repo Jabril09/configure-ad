@@ -51,7 +51,7 @@ Sign into Azure.
 <img src="https://i.imgur.com/F8yOsDf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Make sure the resource group is in the same region as the (VMs)
+Make sure the resource group is in the same region as the (VMs).
 </p>
 <br />
 
@@ -59,7 +59,7 @@ Make sure the resource group is in the same region as the (VMs)
 <img src="https://i.imgur.com/v1Qu4jX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create the virtual machine (VM) DC-1. Select Windows servers 2022. Region US west 3. Click review and create 
+Create the virtual machine (VM) DC-1. Select Windows servers 2022. Region US west 3. Click review and create.
 </p>
 <br />
 <p>
@@ -108,14 +108,14 @@ Open up Remote start in the start menu. After that put Client-1 public ip addres
 <img src="https://i.imgur.com/3cJ9Iuo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Open up command prompt in the start menu. After that ping 10.0.0.4 ( DC-1 private ip address ) and notice has the ping timed out. It timed out because DC-1 firewall is up .
+Open up command prompt in the start menu. After that ping 10.0.0.4 ( DC-1 private ip address ) and notice has the ping timed out. It timed out because DC-1 firewall is up.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/rVJn0oT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Sign into DC-1 the same as you would like Client -1. Get DC-1 pr
+Sign into DC-1 the same as you would like Client -1. Get DC-1 public ip address from the azure portal. Then open up the windows start menu and type in remote desktop and paste DC-1 public ip address in and sign in as labuser and the password you created.
 </p>
 <br />
 <p>
