@@ -66,7 +66,7 @@ Create the virtual machine (VM) DC-1. Select Windows servers 2022. Region US wes
 <img src="https://i.imgur.com/Y8rdbTC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go back to DC-1 and click on networking on the left side. Then click on the newtwork interface (NIC). Then click on ip configurations at the very bottom
+Go back to DC-1 and click on networking on the left side. Then click on the newtwork interface (NIC). 
 </p>
 <br />
 <p>
