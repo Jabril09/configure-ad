@@ -91,10 +91,10 @@ Lorem ipsum dolor sit.
 </p>
 <br />
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sf8Qjct.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet.
+Make sure client-1 is set to windows 10 and the same region as AD-Lab US west 3
 </p>
 <br />
 <p>
