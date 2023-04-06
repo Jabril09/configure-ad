@@ -115,7 +115,7 @@ Open up command prompt in the start menu. After that ping 10.0.0.4 ( DC-1 privat
 <img src="https://i.imgur.com/rVJn0oT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Sign into DC-1 the same as you would like Client -1. Get DC-1 public ip address from the azure portal. Then open up the windows start menu and type in remote desktop and paste DC-1 public ip address in and sign in as labuser and the password you created.
+Sign into DC-1 the same as you would like Client -1. Get DC-1 public ip address from the azure portal. Then open up the windows start menu and type in remote desktop and paste DC-1 public ip address in and sign in as labuser and the password you created. After you are signed into DC-1 open up the windows start menu and type wf.msc for windows firewall. 
 </p>
 <br />
 <p>
