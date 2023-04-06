@@ -23,7 +23,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Step 1 - Sign into portal.azure.com and create a resource group called AD-LAB
 - Step 2 - Create a virtual machine (VM) and name it DC-1 for domain controller. Set the Network interface (NIC) private IP address to static of the domain controller. 
-- Step 3 - Create another virtual machine (VM) for client 1 under the same resource group AD-LAB and same region. 
+- Step 3 - Create another virtual machine (VM) for client 1 under the same resource group AD-LAB and same region. US west 3
 - Step 4 - Ensure connectivity between DC-1 and client-1 with ping. Log into client-1 and ping DC-1. 
 - Step 5 - Install active dictory domain services on DC-1
 - Step 6
@@ -59,7 +59,7 @@ Make sure the resource group is in the same region as the (VMs)
 <img src="https://i.imgur.com/v1Qu4jX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create the virtual machine (VM) DC-1. Select Windows servers 2022.
+Create the virtual machine (VM) DC-1. Select Windows servers 2022. Region US west 3
 </p>
 <br />
 <p>
