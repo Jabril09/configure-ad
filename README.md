@@ -156,7 +156,7 @@ Now time to create organizational units and admin users. Once DC-1 restarts go b
 <img src="https://i.imgur.com/gVMigFy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Right click mydomain.com. Select new and then organization then unit. 
+Right click mydomain.com. Select new and then organizational unit. 
 </p>
 <br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
