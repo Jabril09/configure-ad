@@ -168,7 +168,7 @@ From there click new file in top hand corner and name the file _EMPLOYESS. That 
 <p>
 After refreshing the list those files should be on top of the list.
 </p>
-<br /><img src="https://i.imgur.com/8nmyZPX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Create another admin account. Click admins, new, user name jane doe or whatever name you want to put. Username jane_admin, create password and dont forget. Uncheck box and click password never expires and click finish. After that assign it to domain admin group. Right click name, properties, members of, click add. Type domain , click check names to see all the different groups.
