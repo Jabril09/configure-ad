@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 9 - Join Client-1 to your domain (mydomain.com)
 - Step 10 - 
 - Step 11
-- Step 12
+- Step 12 - Make sure to delete resource groups and VMs so you don't get billed. 
 - Step 13
 - Step 14
 - Step 15
