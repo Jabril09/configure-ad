@@ -69,7 +69,7 @@ Create the virtual machine (VM) DC-1. Select Windows servers 2022. Region US wes
 Create the other virtual machine (VM) as Client-1. Select windows 10 and US region 3. Username labuser , password (whatever you created but dont forget) click review and create.
 </p>
 <br />
-<img src="https://i.imgur.com/Y8rdbTC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GC1MC0J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Go back to DC-1 and click on networking on the left side. Then click on the newtwork interface (NIC). To Change network interface (NIC).
