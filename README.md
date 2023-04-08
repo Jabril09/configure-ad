@@ -30,8 +30,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 7 - Create organizational units and admin users in active directory.
 - Step 8 - Create a Admin and normal user account in Active directory
 - Step 9 - Join Client-1 to your domain (mydomain.com)
-- Step 10 - 
-- Step 11
+- Step 10 - Sign in the admin account you created. This way we are showing you how you can sign into the same computer with different accounts because they are on the same domain.
+- Step 11 - Create additional users and attempt to log in Client-1 with one of the users you created. 
 - Step 12 - Make sure to delete resource groups and VMs so you don't get billed. 
 - Step 13
 - Step 14
@@ -186,7 +186,7 @@ Go back to the portal to get DC-1 public IP address to sign back in as jane or w
 <br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+khkhkhkhkhkhkhkhkhkh.
 </p>
 <br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
