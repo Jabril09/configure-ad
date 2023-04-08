@@ -239,16 +239,16 @@ Now we are going to set up remote desktop so all normal domain users can remote 
 In DC-1 go to tools to find active directory users and computers. then click mydomain.com and click users. 
 </p>
 <br />
-<br /><br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><img src="https://i.imgur.com/dyCGvnz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now we see who all has access.
 </p>
 <br />
-<br /><br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><img src="https://i.imgur.com/IO1Qtqh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+(EXTRA STEP: NO NEED TO CREATE RANDOM CLIENTS JUST FOR PROJECT)From here if not already logged into DC-1 log into DC-1 as Jane_admin (whatever name you created and password). Click the windows menue and open up the powershell ise as an admin. Right click powershell ise to open up as admin. Create a new file in powershell and paste the script that was given.
 </p>
 <br />
 <br /><br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
