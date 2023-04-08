@@ -129,7 +129,7 @@ Click on protocol at the top of the list and look for ICMPv4 core networking. Ex
 <img src="https://i.imgur.com/KFYX80T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We are getting a reply back from DC-1 pretty cool.
+We are getting a reply back from DC-1 pretty cool right?.
 </p>
 <br />
 <p>
@@ -196,18 +196,18 @@ Sign into Client-1 as labuser by getting Client-1 public IP address and sign in 
 <br /><img src="https://i.imgur.com/HGaMvjB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Right click start and go to systems.
+Right click start and go to systems. Click rename this pc (advanced). Click " to rename this computer or change it's domain or work group". Click members of domain.
 </p>
 <br /><img src="https://i.imgur.com/eIrW2q0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-DC_1 private IP address
+DC-1 private IP address. Go back to the portal in azure and go to VM and click on DC-1. There you should find DC-1 private IP address. 
 </p>
 <br />
 <br /><br /><img src="https://i.imgur.com/lxNymsT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Client-1 nic.
+Go back to the portal in azure to get to Client-1. From there click networking then click network interface (NIC). Go to DNS server (domain name server) click custom to add DC-1 private IP address then click save. 
 </p>
 <br />
 
@@ -215,7 +215,7 @@ Client-1 nic.
 <br /><br /><img src="https://i.imgur.com/RcjsvSQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Lorem ipsum dolor sit a.
 </p>
 <br /><br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
