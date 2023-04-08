@@ -25,15 +25,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 2 - Create a virtual machine (VM) and name it DC-1 for domain controller. Set the Network interface (NIC) private IP address to static of the domain controller. 
 - Step 3 - Create another virtual machine (VM) for client 1 under the same resource group AD-LAB and same region. US west 3 , username labuser and password (whatever you created but do not forget it) 
 - Step 4 - Ensure connectivity between DC-1 and client-1 with ping. Log into client-1 and ping DC-1. 
-- Step 5 - Disable DC-1 firewall so client-1 can ping DC-1 without timing out
-- Step 6 - Install active dictory domain services on DC-1
+- Step 5 - Disable DC-1 firewall so client-1 can ping DC-1 without timing out.
+- Step 6 - Install active dictory domain services on DC-1.
 - Step 7 - Create organizational units and admin users in active directory.
-- Step 8 - Create a Admin and normal user account in Active directory
+- Step 8 - Create a Admin and normal user account in Active directory.
 - Step 9 - Join Client-1 to your domain (mydomain.com)
 - Step 10 - Sign in the admin account you created. This way we are showing you how you can sign into the same computer with different accounts because they are on the same domain.
-- Step 11 - Set up remote desktop for non administrives on Client-1 
+- Step 11 - Set up remote desktop for non administrives on Client-1. 
 - Step 12 -  Create additional users and attempt to log in Client-1 with one of the users you created. (OPTIONAL NO NEED TO CREATE USERS, JUST FOR PROJECT)
-- Step 13 - Make sure to delete resource groups and VMs so you don't get billed
+- Step 13 - Make sure to delete resource groups and VMs so you don't use your free credits. 
 
 
 
@@ -86,7 +86,7 @@ Then on the left side click ip configurations.
 <img src="https://i.imgur.com/taPszWO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- click static and save to set (NIC) of the domain controller. 
+ Click static and save to set (NIC) of the domain controller. 
 </p>
 <br />
 <p>
