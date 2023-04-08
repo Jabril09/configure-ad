@@ -191,7 +191,7 @@ Now we are goin to join Client-1 to the domain. First we have to set Client-1 DN
 <br /><img src="https://i.imgur.com/eBTbezd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lor.hjhjjhjhhhhhhhhj
+Sign into Client-1 as labuser by getting Client-1 public IP address and sign in remote desktop. Once signed in Command prompt and type in whoami or hostname to make sure you are signed into the Virtual Machine. 
 </p>
 <br /><img src="https://i.imgur.com/HGaMvjB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
