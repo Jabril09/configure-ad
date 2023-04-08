@@ -204,7 +204,7 @@ Right click start and go to systems.
 DC_1 private IP address
 </p>
 <br />
-<br /><br /><img src="https://imgur.com/a/YUlhTg5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><img src="https://i.imgur.com/lxNymsT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Client-1 nic.
