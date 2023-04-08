@@ -239,7 +239,7 @@ Now we are going to set up remote desktop so all normal domain users can remote 
 In DC-1 go to tools to find active directory users and computers. then click mydomain.com and click users. 
 </p>
 <br />
-<br /><br /><img src="https://i.imgur.com/dyCGvnz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><img src="https://i.imgur.com/kbJTRN4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now we see who all has access.
