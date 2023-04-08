@@ -183,10 +183,10 @@ Click the windows button and type CMD (command Prompt).Command prompts allow you
 <p>
 Go back to the portal to get DC-1 public IP address to sign back in as jane or whatever your mydomain.com name you created. Jane_admin and whatever password you created.
 </p>
-<br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><img src="https://i.imgur.com/X8h5tEw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-khkhkhkhkhkhkhkhkhkh.
+Now we are goin to join Client-1 to the domain. First we have to set Client-1 DNS (Domain Name Server) to DC-1 private IP address so they can join the domain controller because the domain controller knows what mydomain.com is. 
 </p>
 <br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
