@@ -220,7 +220,7 @@ After saving DC-1 private IP address Client-1 will restart and flush the dns cac
 <br /><br /><img src="https://i.imgur.com/RcjsvSQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to portal in azure and go to Client-1 and click restart.
+Go to portal in azure and go to Client-1 and click restart. Then log back in as Client-1 as original admin (labuser). Command Prompt and type in IPconfigall to check new DNS server.
 </p>
 <br /><br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
