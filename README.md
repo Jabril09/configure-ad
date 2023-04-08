@@ -212,15 +212,15 @@ Go back to the portal in azure to get to Client-1. From there click networking t
 <br />
 
 </p>
+<br /><br /><img src="https://i.imgur.com/snyCdZ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After saving DC-1 private IP address Client-1 will restart and flush the dns cache. 
+</p>
 <br /><br /><img src="https://i.imgur.com/RcjsvSQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit a.
-</p>
-<br /><br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to portal in azure and go to Client-1 and click restart.
 </p>
 <br /><br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
