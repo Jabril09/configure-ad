@@ -31,9 +31,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 8 - Create a Admin and normal user account in Active directory
 - Step 9 - Join Client-1 to your domain (mydomain.com)
 - Step 10 - Sign in the admin account you created. This way we are showing you how you can sign into the same computer with different accounts because they are on the same domain.
-- Step 11 - Create additional users and attempt to log in Client-1 with one of the users you created. 
-- Step 12 - Make sure to delete resource groups and VMs so you don't get billed. 
-- Step 13
+- Step 11 - Set up remote desktop for non administrives on Client-1 
+- Step 12 -  Create additional users and attempt to log in Client-1 with one of the users you created.
+- Step 13 - Make sure to delete resource groups and VMs so you don't get billed
 - Step 14
 - Step 15
 
