@@ -220,23 +220,23 @@ After saving DC-1 private IP address Client-1 will restart and flush the dns cac
 <br /><br /><img src="https://i.imgur.com/RcjsvSQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Go to portal in azure and go to Client-1 and click restart. Then log back in as Client-1 as original admin (labuser). Command Prompt and type in IPconfigall to check new DNS server.
+Log back in as Client-1 as original admin (labuser). Go to portal in azure and go to Client-1 and click restart. Click the windows start button and then type Command Prompt and type in IPconfigall to check new DNS server.
 </p>
-<br /><br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br /><br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><img src="https://i.imgur.com/snyCdZ9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Log in as mydomain.com jane_admin and whatever password you created. Click ok the computer will restart. Now we should be able to sign in as jane_admin in Client-1 desktop because they are on the same domain.
+</p>
+<br /><br /><img src="https://i.imgur.com/Pe7BSfr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now we are going to set up remote desktop so all normal domain users can remote into Client-1. Go to sytems then remote desktop settings. Select users that can remotely access this pc. 
 </p>
 <br />
-<br /><br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /><br /><img src="https://i.imgur.com/dyCGvnz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In DC-1 go to tools to find active directory users and computers. then click mydomain.com and click users. 
 </p>
 <br />
 <br /><br /><img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
